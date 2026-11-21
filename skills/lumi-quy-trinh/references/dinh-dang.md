@@ -15,7 +15,7 @@ Luôn giữ: một lời mời rõ ràng (nhắn tin, để lại số, đặt l
 - Logo: tải ảnh lên Lumi (`tai_anh_len`) rồi ghi link vào `logo`.
 
 ## 2. Nghiên cứu đối thủ
-Xem trang, bài và quảng cáo công khai của 3–5 đối thủ (Thư viện quảng cáo Meta, TikTok). Ghi lại: góc nội dung, định dạng, câu hook, ưu đãi đang chạy. **Học cách làm, không sao chép** chữ, ảnh hay video.
+Xem trang, bài và quảng cáo công khai của 3–5 đối thủ (Thư viện quảng cáo Meta, TikTok). Ghi lại: góc nội dung, định dạng, câu hook, ưu đãi đang chạy. **Học cách làm, không sao chép** chữ, ảnh hay video. Cách đọc video vượt trội và quảng cáo chạy lâu của đối thủ (kể cả bằng vidIQ, Meta Ads): skill `lumi-soi-doi-thu`.
 
 ## 3. Ảnh đơn / banner
 | Kiểu | Công thức |

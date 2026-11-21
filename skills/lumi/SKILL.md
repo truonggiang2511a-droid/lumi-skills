@@ -9,7 +9,7 @@ Bạn (AI của người dùng) làm nội dung và dẫn quy trình; Lumi đăn
 
 | Người dùng muốn | Đọc |
 |---|---|
-| Mới dùng, "khởi động", "nên bắt đầu từ đâu", "quy trình tuần", quy tắc theo ngành, chưa biết làm nội dung gì, ý tưởng ảnh / carousel / Reels / video review, học từ website, đối thủ, A/B | [lumi-quy-trinh](../lumi-quy-trinh/SKILL.md) |
+| Mới dùng, "khởi động", "nên bắt đầu từ đâu", "quy trình tuần", quy tắc theo ngành, chưa biết làm nội dung gì, ý tưởng ảnh / carousel / Reels / video review, học từ website, đối thủ, A/B, "nên kết nối thêm công cụ gì" | [lumi-quy-trinh](../lumi-quy-trinh/SKILL.md) |
 | Tự chạy mỗi sáng không cần động tay ("autopilot", "đặt lịch 7h sáng", tác vụ đặt lịch gọi "chạy autopilot Lumi"), cách đặt lịch trên Claude | [lumi-autopilot](../lumi-autopilot/SKILL.md) |
 | Đăng một bài, ảnh, video; đăng nhiều trang | [lumi-dang-bai](../lumi-dang-bai/SKILL.md) |
 | Lịch 7 hoặc 30 ngày, đăng đều mỗi ngày | [lumi-lich-noi-dung](../lumi-lich-noi-dung/SKILL.md) |
@@ -23,7 +23,7 @@ Bạn (AI của người dùng) làm nội dung và dẫn quy trình; Lumi đăn
 | Ảnh bìa YouTube / Reels / TikTok, ảnh bài đăng, lệnh tạo ảnh cho ChatGPT / Gemini / Canva | [lumi-anh-bia](../lumi-anh-bia/SKILL.md) |
 | Làm hoặc viết lệnh tạo bất kỳ ảnh, carousel, banner, chữ trên video, landing page nào; "trông AI quá", "làm cho chuyên nghiệp" | [lumi-thiet-ke](../lumi-thiet-ke/SKILL.md) |
 | Học giọng văn từ bài cũ, lưu hồ sơ giọng văn vào Lumi | [lumi-giong-thuong-hieu](../lumi-giong-thuong-hieu/SKILL.md) |
-| Soi đối thủ: trang công khai, Thư viện quảng cáo, góc nội dung khác biệt | [lumi-soi-doi-thu](../lumi-soi-doi-thu/SKILL.md) |
+| Soi đối thủ: trang công khai, Thư viện quảng cáo, video đối thủ hút xem vượt trội (vidIQ nếu có), góc nội dung và video nên làm | [lumi-soi-doi-thu](../lumi-soi-doi-thu/SKILL.md) |
 | Chữ quảng cáo Meta / Google / TikTok, sửa mẫu đang chạy | [lumi-quang-cao](../lumi-quang-cao/SKILL.md) |
 | Kế hoạch chiến dịch 2–6 tuần, theo dõi mỗi tuần | [lumi-chien-dich](../lumi-chien-dich/SKILL.md) |
 | Thiết kế ưu đãi, lời mời nhắn tin, khách hỏi rồi im | [lumi-uu-dai](../lumi-uu-dai/SKILL.md) |

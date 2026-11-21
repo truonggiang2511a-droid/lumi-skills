@@ -5,7 +5,7 @@ description: Lên ý tưởng và viết brief ảnh bìa / ảnh bài đăng ch
 
 # Lumi – ảnh bìa và ảnh bài đăng
 
-Skill này viết **chữ và hướng dẫn**, không tự vẽ ảnh: người dùng tạo ảnh bằng ChatGPT (ảnh), Gemini, Canva hoặc nhờ thiết kế, rồi đưa ảnh lên Lumi.
+Skill này viết **chữ và hướng dẫn**. Người dùng đã kết nối Canva hoặc Adobe thì bạn làm luôn ảnh theo phương án đã chọn (skill `lumi-thiet-ke`, mục 4); không có thì người dùng tạo ảnh bằng ChatGPT (ảnh), Gemini, Canva hoặc nhờ thiết kế, rồi đưa ảnh lên Lumi.
 Ưu tiên **ảnh thật** của sản phẩm (từ `san_pham` hoặc người dùng chụp): ảnh thật thường đáng tin hơn ảnh AI.
 Nguyên tắc chung để ảnh không "nhìn là biết AI" và bảng kiểm tra trước khi đăng: skill `lumi-thiet-ke`.
 
