@@ -39,7 +39,14 @@ Thương hiệu chưa có màu / phong cách: đọc website hoặc fanpage củ
 - Các phần tiếp theo trả lời đúng câu khách hay hỏi (lấy từ kho tri thức trong `thuong_hieu`): giá, vị trí, chính sách, hình thật, lời khách.
 - Không ba thẻ tính năng giống hệt nhau, không icon cho mỗi dòng, không hiệu ứng chạy lung tung. Mở trên điện thoại kiểm tra trước khi gửi.
 
-## 4. Viết lệnh tạo ảnh cho ChatGPT / Gemini / Canva
+## 4. Làm ảnh: công cụ đã kết nối trước, lệnh tạo ảnh sau
+Xem trong danh sách công cụ của bạn:
+- **Canva** đã kết nối: tìm mẫu hoặc thiết kế có sẵn của doanh nghiệp, điền chữ và ảnh thật vào mẫu, xuất PNG / JPG đúng khổ (4:5 bài đăng, 9:16 story / Reels). Dễ nhất cho chủ shop sửa lại tay sau.
+- **Adobe** đã kết nối: chỉnh ảnh thật — xoá nền, chỉnh sáng và màu, đổi khổ, ghép chữ.
+- Có công cụ tạo / sửa ảnh khác (Magnific, ChatGPT ảnh…): chỉ dùng để làm nền, chỉnh sáng, đổi khổ; không tạo sản phẩm, nhà, người không có thật.
+Xong: mở xem ảnh xuất ra, kiểm tra theo mục 5, cho người dùng duyệt, rồi đưa lên Lumi (`tai_anh_len` với link ảnh, hoặc `xin_link_tai_anh` cho file trên máy).
+Không có công cụ nào: viết lệnh như dưới đây để người dùng dán vào ChatGPT / Gemini / Canva. Chưa có Canva mà người dùng hay phải làm ảnh: gợi ý kết nối Canva một lần (xem [cong-cu.md](../lumi-quy-trinh/references/cong-cu.md)).
+
 Luôn kèm ảnh thật và ghi rõ: khổ ảnh, chủ thể chính, chữ (đúng từng chữ, có dấu), mã màu thương hiệu, và câu
 "Giữ nguyên chi tiết thật, không thêm thứ không có thật, không hiệu ứng phát sáng, không nền chuyển màu tím xanh, không emoji."
 Chữ tiếng Việt AI vẽ sai dấu thì tạo ảnh không chữ rồi thêm chữ trong Canva. Ảnh bìa và lệnh chi tiết: skill `lumi-anh-bia`.

@@ -1,6 +1,6 @@
 ---
 name: lumi
-description: Làm marketing với Lumi qua Lumi MCP - khởi động lần đầu, quy trình mỗi tuần, đăng bài / ảnh / video lên mọi kênh (Facebook, Instagram, TikTok, YouTube, Threads), lịch nội dung tuần / tháng, đăng nhiều trang xoay vòng, bài fanpage và trả lời bình luận, kịch bản TikTok, YouTube Shorts, caption và carousel Instagram, hook và kịch bản video ngắn theo mẫu, ảnh bìa và ảnh bài đăng, giọng thương hiệu, soi đối thủ, chữ quảng cáo, chiến dịch, ưu đãi, một nội dung thành bản cho mọi nền tảng, chăm khách nóng, báo cáo và đề xuất, quy tắc viết theo ngành. Dùng khi người dùng nhắc Lumi hoặc nói "autopilot", "chạy tự động mỗi sáng", "đặt lịch 7h sáng", "khởi động", "quy trình tuần", "đăng bài này", "lên lịch tuần / tháng", "hôm nay cần gọi ai", "huấn luyện chatbot", "báo cáo tuần", "nên làm gì tiếp", "viết bài fanpage", "trả lời bình luận", "kịch bản TikTok", "hook TikTok", "làm Shorts", "tiêu đề YouTube", "caption Instagram", "làm carousel", "viết hook", "kịch bản giống video này", "làm ảnh bìa", "thumbnail", "trông AI quá", "làm banner", "làm landing page", "học giọng văn của tôi", "soi đối thủ", "viết quảng cáo", "lên chiến dịch", "làm ưu đãi", "đăng cái này lên hết các nền tảng".
+description: Làm marketing với Lumi qua Lumi MCP - khởi động, quy trình tuần, autopilot mỗi sáng, đăng bài / ảnh / video lên mọi kênh, lịch nội dung, đăng nhiều trang, fanpage và trả lời bình luận, TikTok, YouTube Shorts, Instagram, hook và kịch bản video ngắn, ảnh bìa, thiết kế, giọng thương hiệu, soi đối thủ, quảng cáo, chiến dịch, ưu đãi, một nội dung cho mọi nền tảng, chăm khách nóng, báo cáo. Dùng khi người dùng nhắc Lumi hoặc nói "khởi động", "quy trình tuần", "autopilot", "đặt lịch 7h sáng", "đăng bài này", "lên lịch tuần", "hôm nay cần gọi ai", "huấn luyện chatbot", "báo cáo tuần", "nên làm gì tiếp", "viết bài fanpage", "kịch bản TikTok", "làm Shorts", "caption Instagram", "làm carousel", "viết hook", "làm ảnh bìa", "trông AI quá", "làm banner", "làm landing page", "học giọng văn", "soi đối thủ", "video đối thủ hút view", "viết quảng cáo", "lên chiến dịch", "làm ưu đãi", "đăng lên hết các nền tảng".
 ---
 
 # Lumi – bộ skill trọn gói
@@ -9,7 +9,7 @@ Bạn (AI của người dùng) làm nội dung và dẫn quy trình; Lumi đăn
 
 | Người dùng muốn | Đọc |
 |---|---|
-| Mới dùng, "khởi động", "nên bắt đầu từ đâu", "quy trình tuần", quy tắc theo ngành, chưa biết làm nội dung gì, ý tưởng ảnh / carousel / Reels / video review, học từ website, đối thủ, A/B | [lumi-quy-trinh](../lumi-quy-trinh/SKILL.md) |
+| Mới dùng, "khởi động", "nên bắt đầu từ đâu", "quy trình tuần", quy tắc theo ngành, chưa biết làm nội dung gì, ý tưởng ảnh / carousel / Reels / video review, học từ website, đối thủ, A/B, "nên kết nối thêm công cụ gì" | [lumi-quy-trinh](../lumi-quy-trinh/SKILL.md) |
 | Tự chạy mỗi sáng không cần động tay ("autopilot", "đặt lịch 7h sáng", tác vụ đặt lịch gọi "chạy autopilot Lumi"), cách đặt lịch trên Claude | [lumi-autopilot](../lumi-autopilot/SKILL.md) |
 | Đăng một bài, ảnh, video; đăng nhiều trang | [lumi-dang-bai](../lumi-dang-bai/SKILL.md) |
 | Lịch 7 hoặc 30 ngày, đăng đều mỗi ngày | [lumi-lich-noi-dung](../lumi-lich-noi-dung/SKILL.md) |
@@ -23,7 +23,7 @@ Bạn (AI của người dùng) làm nội dung và dẫn quy trình; Lumi đăn
 | Ảnh bìa YouTube / Reels / TikTok, ảnh bài đăng, lệnh tạo ảnh cho ChatGPT / Gemini / Canva | [lumi-anh-bia](../lumi-anh-bia/SKILL.md) |
 | Làm hoặc viết lệnh tạo bất kỳ ảnh, carousel, banner, chữ trên video, landing page nào; "trông AI quá", "làm cho chuyên nghiệp" | [lumi-thiet-ke](../lumi-thiet-ke/SKILL.md) |
 | Học giọng văn từ bài cũ, lưu hồ sơ giọng văn vào Lumi | [lumi-giong-thuong-hieu](../lumi-giong-thuong-hieu/SKILL.md) |
-| Soi đối thủ: trang công khai, Thư viện quảng cáo, góc nội dung khác biệt | [lumi-soi-doi-thu](../lumi-soi-doi-thu/SKILL.md) |
+| Soi đối thủ: trang công khai, Thư viện quảng cáo, video đối thủ hút xem vượt trội (vidIQ nếu có), góc nội dung và video nên làm | [lumi-soi-doi-thu](../lumi-soi-doi-thu/SKILL.md) |
 | Chữ quảng cáo Meta / Google / TikTok, sửa mẫu đang chạy | [lumi-quang-cao](../lumi-quang-cao/SKILL.md) |
 | Kế hoạch chiến dịch 2–6 tuần, theo dõi mỗi tuần | [lumi-chien-dich](../lumi-chien-dich/SKILL.md) |
 | Thiết kế ưu đãi, lời mời nhắn tin, khách hỏi rồi im | [lumi-uu-dai](../lumi-uu-dai/SKILL.md) |

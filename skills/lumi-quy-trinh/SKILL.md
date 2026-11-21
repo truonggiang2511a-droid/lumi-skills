@@ -22,9 +22,10 @@ Làm lần lượt, xong bước này mới sang bước sau.
 ## B. Nhịp mỗi tuần
 **Đầu tuần (thứ Hai):**
 1. Nhìn lại: `tong_quan`, `chi_so` (period: week), `bai_dang`, `bac_si_quang_cao`. Bài, góc, kênh nào ra khách nhắn tin; cái nào không. Chỉ dùng số công cụ trả về.
-2. Lên 7 bài: giữ và làm thêm các góc đã ra khách, bỏ góc không hiệu quả. Mỗi bài một góc trong bảng góc của ngành.
-3. Nhiều trang: từ 5 trang kèm 3–10 `phien_ban`; từ 10 trang chia nhóm khoảng 10 trang, mỗi nhóm một bài khác hẳn (góc, ảnh / video riêng), ngày sau dời sang nhóm kế (cách làm chi tiết: skill `lumi-dang-bai`, `lumi-lich-noi-dung`).
-4. Cho duyệt bảng kế hoạch + 2 bài mẫu → `dang_bai` từng bài đúng ngày, `cho_duyet: true` trừ khi họ bảo đăng thẳng.
+2. Soi nhanh đối thủ (khoảng 10 phút, khi người dùng đã cho danh sách đối thủ): video vượt trội và quảng cáo mới của họ trong tuần qua → 2–3 góc hoặc kiểu mở đầu đáng thử (skill `lumi-soi-doi-thu`, mục 2b; dùng vidIQ / Meta Ads nếu đã kết nối, không có thì đọc trang công khai).
+3. Lên 7 bài: giữ và làm thêm các góc đã ra khách, thêm 1–2 góc vừa học từ đối thủ (viết bằng thông tin thật của mình), bỏ góc không hiệu quả. Mỗi bài một góc trong bảng góc của ngành; ảnh theo skill `lumi-thiet-ke` (làm luôn bằng Canva / Adobe nếu đã kết nối).
+4. Nhiều trang: từ 5 trang kèm 3–10 `phien_ban`; từ 10 trang chia nhóm khoảng 10 trang, mỗi nhóm một bài khác hẳn (góc, ảnh / video riêng), ngày sau dời sang nhóm kế (cách làm chi tiết: skill `lumi-dang-bai`, `lumi-lich-noi-dung`).
+5. Cho duyệt bảng kế hoạch + 2 bài mẫu → `dang_bai` từng bài đúng ngày, `cho_duyet: true` trừ khi họ bảo đăng thẳng.
 
 **Mỗi sáng:** `viec_quan_trong_hom_nay` + `khach_hang` → khách nóng cần gọi, soạn sẵn tin nhắn; họ báo đã gọi thì `ghi_cham_soc` (chi tiết: skill `lumi-cham-khach`).
 
@@ -32,6 +33,7 @@ Làm lần lượt, xong bước này mới sang bước sau.
 
 ## Định dạng, công thức, học website, đối thủ, A/B
 Người dùng chưa biết làm gì, cần ý tưởng định dạng (ảnh, carousel, Reels, video review bán hàng, video giải thích), học thương hiệu từ website, nghiên cứu đối thủ, thử A/B, hay trình bày lịch sau khi đăng: đọc [references/dinh-dang.md](references/dinh-dang.md). Đó là gợi ý; người dùng có skill hay cách làm riêng thì dùng của họ.
+Công cụ kết nối thêm giúp soi đối thủ và làm ảnh (vidIQ, Canva, Meta Ads, Adobe…) và cách gợi ý cho đúng lúc: [references/cong-cu.md](references/cong-cu.md).
 
 ## C. Quy tắc viết chung (mọi ngành)
 - **Câu đầu** nói thẳng lợi ích hoặc nỗi lo của khách, không chào hỏi, không giới thiệu công ty.
@@ -45,6 +47,7 @@ Người dùng chưa biết làm gì, cần ý tưởng định dạng (ảnh, c
 ## D. Câu lệnh mẫu cho người dùng
 - "Khởi động Lumi cho tôi"
 - "Chạy quy trình tuần này, đẩy sản phẩm X"
+- "Làm nội dung tuần này: soi video đối thủ, chọn góc, làm ảnh rồi lên lịch"
 - "Hôm nay cần gọi ai?"
 - "Tuần này thế nào, nên làm gì tiếp?"
 - "Đăng bài này lên 50 trang, mỗi nhóm một kiểu"
